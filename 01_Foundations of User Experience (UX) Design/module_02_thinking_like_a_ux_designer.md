@@ -1,6 +1,4 @@
-# Module 2 Reviewer: Design Approaches, Accessibility & Device Frameworks
-
-A quick-reference study sheet covering design frameworks, accessibility, equitable design, and cross-platform design.
+# Module 2: Design Approaches, Accessibility & Device Frameworks
 
 ## Table of Contents
 
