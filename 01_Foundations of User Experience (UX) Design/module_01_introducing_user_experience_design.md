@@ -1,6 +1,4 @@
-# Module 1 Reviewer: Introduction to UX Design
-
-A quick-reference study sheet covering the fundamentals of UX design.
+# Module 1: Introduction to UX Design
 
 ## Table of Contents
 
