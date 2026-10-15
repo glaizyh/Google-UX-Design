@@ -1,6 +1,4 @@
-# Module 3 Reviewer: Design Thinking Framework & Business Requirements
-
-A quick-reference study sheet covering the design thinking framework, how business requirements shape it, and each of its five phases.
+# Module 3 : Design Thinking Framework & Business Requirements
 
 ## Table of Contents
 
