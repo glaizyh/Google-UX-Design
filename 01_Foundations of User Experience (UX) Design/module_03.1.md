@@ -1,6 +1,4 @@
-# Module 3.1 Reviewer: Design Sprints & Sprint Briefs
-
-A quick-reference study sheet covering design sprint fundamentals, the five-day sprint phases, how to plan a sprint, and what goes into a sprint brief.
+# Module 3.1: Design Sprints & Sprint Briefs
 
 ## Table of Contents
 
