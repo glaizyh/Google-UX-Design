@@ -1,7 +1,5 @@
 # Google-UX-Design
 
-# Google-UX-Design
-
 My personal study notes, reviewers, and project work for the Google UX Design Certificate.
 
 ## About this repo
@@ -23,8 +21,8 @@ This repo tracks my learning across all 7 courses. Each course has its own folde
 ## Other folders
 
 - [Projects](./Projects): portfolio projects and case studies
-- [Templates](./Templates): reusable templates (notes, reviewers, design docs)
-
+- [Templates](./Templates): reusable templates
+  
 ## How each reviewer is organized
 
 1. Key definitions and terms
